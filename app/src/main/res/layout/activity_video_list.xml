@@ -31,7 +31,7 @@
                 android:layout_height="wrap_content"
                 android:text="@string/home"
                 android:textColor="@color/white"
-                android:textSize="@dimen/twenty_sp"
+                android:textSize="@dimen/twelve_sp"
                 android:textStyle="bold"
                 android:layout_gravity="center"
                 android:id="@+id/toolbar_title" />

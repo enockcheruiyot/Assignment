@@ -16,7 +16,7 @@
 
         <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="130dp"
+            android:layout_height="@dimen/one_thirty_dp"
             android:orientation="horizontal">
 
             <ImageView
