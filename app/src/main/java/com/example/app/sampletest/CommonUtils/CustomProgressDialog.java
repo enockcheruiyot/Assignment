@@ -11,8 +11,8 @@ import android.widget.ImageView;
 import com.example.app.sampletest.R;
 
 
-/**
- * Created by Prabhakaran on 18/09/2018.
+/*
+ * Created by Prabhakaran on 10/1/2019
  */
 public class CustomProgressDialog extends android.app.ProgressDialog {
     private Context context;
